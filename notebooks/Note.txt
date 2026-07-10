@@ -1,0 +1,20 @@
+📔 Notebook 1: 01_first_look_and_discovery
+The Theme: "Run it first, learn the theory later."
+
+What you did: You ran an entire end-to-end Machine Learning pipeline (run_all.py) on a small, safe sample dataset of 30,000 rows. The pipeline prepared the data, trained three different AI models, compared them to a basic human-written rule, and generated a PDF report.
+The Lesson: It proves right away that a machine learning model can easily beat a human's hand-written guess (the "baseline"). It also gives you a chance to write a quick line of code (the "Your turn" cell) to discover a real-world insight in the data—like realizing that a keyword's search volume barely predicts how much traffic a page will actually get!
+📔 Notebook 2: 02_your_first_readable_model
+The Theme: "Machine Learning isn't magic; it's just a rule you can read."
+
+What you did: First, you wrote your own logical rule to predict if a page's traffic was declining (e.g., "if the page is old AND it's getting traffic, it's probably declining"). Then, you trained a basic ML model called a Decision Tree and literally printed out its "brain."
+The Lesson: This notebook demystifies AI. When you print the Decision Tree, it just looks like a giant if/else statement (e.g., if avg_position < 0.15...). You learn that the ML model is doing the exact same thing your brain was trying to do—it's just using math to find the absolute perfect cutoff numbers to get a better score than a human could guess.
+📔 Notebook 3: 03_working_with_the_full_release
+The Theme: "How to handle Big Data without crashing your computer."
+
+What it does: Notebooks 1 and 2 used a tiny 30,000-row toy dataset. Notebook 3 graduates you to the real dataset: roughly 79 Million rows hosted on Hugging Face. If you tried to download that into Python, your computer would freeze.
+The Lesson: It teaches you a modern data engineering trick using a tool called DuckDB. DuckDB allows you to query the massive Hugging Face database over the internet using SQL, do the heavy math on the server, and only pull a tiny, lightweight summary table down to your local Python environment. This allows you to train ML models on 79M rows of data using a basic, free laptop!
+In summary:
+
+Notebook 1: Proves ML works on a small scale.
+Notebook 2: Proves ML isn't a magical black box (you can read how it thinks).
+Notebook 3: Teaches you how to scale those exact same concepts up to millions of rows of data.
