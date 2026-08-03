@@ -104,3 +104,36 @@ Out of tens of thousands of published web content items, search intelligence tea
   - `work/notebooks/w07_action_playbook.ipynb`
   - `work/notebooks/capstone.ipynb`
 - **Data Credit:** Built on the FlyRank Machine Learning Internship dataset provided by [FlyRank](https://flyrank.ai).
+
+
+---
+
+## 9. Showcase Demo Outline & Shareable Career Cuts
+
+### 5-Minute Showcase Demo Outline
+- **0:00 – 1:00 (Question & Problem):** Solving portfolio content decay at FlyRank; why static hand-written rules fail when demand scale and CTR expectations tangle.
+- **1:00 – 2:00 (Method & Contract):** 30,000 pages, trailing 90-day window, leakage exclusions (`trend_pct`), and the 80/20 Client-Holdout split design.
+- **2:00 – 3:00 (The One Chart):** Walkthrough of Figure 1 (Precision@10 comparison showing Logistic Regression at 0.900 vs 0.400 Baseline).
+- **3:00 – 4:00 (Honest Result & Errors):** $2.25\times$ precision lift on unseen holdout domains; analyzing false positive edge cases.
+- **4:00 – 5:00 (Recommendations & Safety):** Operational Action Playbook, editor workflow, and the strict No-Go List.
+
+### Shareable Cuts of Your Work
+
+#### Short Social Post (LinkedIn / X)
+> 🚀 **Predicting Organic Search Content Decay Across 30,000 Web Pages**
+> 
+> How do you identify which decaying content to refresh first without letting models memorize client domain authority?
+> 
+> During my FlyRank Machine Learning Internship, I built a predictive decay scoring framework and Content Action Playbook designed for large-scale editorial sprint allocation.
+> 
+> 💡 **Key Methodology Takeaway:** Standard random row splits cause severe group data leakage by allowing models to memorize client domain strength. By evaluating on an out-of-domain 80/20 Client-Holdout split, our L2-regularized Logistic Regression model achieved a measured **Precision@10 of 0.900** (vs. a 0.400 rule baseline and 0.525 base rate) — delivering a $2.25\times$ precision gain for top-priority refresh queues.
+> 
+> 📄 **Read the deployed Research Paper:** https://zeyadarafa.github.io/FlyRank-Intern/  
+> 💻 **Explore the Code & Notebooks:** https://github.com/ZeyadArafa/FlyRank-Intern  
+> 
+> *Data Credit: Built on the FlyRank Machine Learning Internship dataset (https://flyrank.ai).*
+
+#### 3-Sentence Employer-Facing Summary
+1. **What I Built:** I built an end-to-end machine learning decay scoring framework and Content Action Playbook that prioritizes high-demand web content for editorial refresh sprints.
+2. **On What Data:** Evaluated on the anonymized FlyRank search intelligence dataset covering 30,000 content items across 32 client domains using an out-of-domain 80/20 client-holdout split to prevent group data leakage.
+3. **What It Showed:** The model achieved a measured Precision@10 of 0.900 (vs a 0.400 rule baseline and 0.525 base rate), providing directional decision-support that focuses limited editorial capacity on high-ROI refresh opportunities while enforcing a strict human-in-the-loop safety protocol.

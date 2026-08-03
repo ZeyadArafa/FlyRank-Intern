@@ -288,7 +288,7 @@
         <!-- 2. INTRODUCTION -->
         <section id="introduction">
             <h2>2. Introduction & Problem Statement</h2>
-            <p>High-performing web content naturally experiences search position and traffic decay over time due to algorithmic changes, competitor expansions, and information staleness. In portfolio search operations managing thousands of articles, manual review is intractable, and static hand-written health flags (e.g. <em>"updated >180 days ago"</em> or <em>"CTR < 0.5%"</em>) fail when multi-dimensional search signals interact.</p>
+            <p><strong>Real FlyRank Case Study Framing:</strong> At FlyRank, client search portfolios span tens of thousands of published articles across diverse industry domains. High-performing web content naturally experiences search position and traffic decay over time due to algorithmic updates, competitor expansions, and information staleness. In large-scale portfolio search operations, manual auditing is intractable, and static hand-written health flags (e.g. <code>stale_visible_page</code>, <code>low_ctr_visible_page</code>, <code>page_one_decay_risk</code>) apply uniform thresholds that fail when multi-dimensional search signals interact.</p>
             <p>The operational challenge is an editorial resource allocation problem: <strong>Which subset of declining content items should human editors refresh first to achieve maximum traffic retention?</strong> We frame this task as a pointwise probability scoring and ranking problem, evaluating learned classifiers against transparent hand-written rules.</p>
         </section>
 
