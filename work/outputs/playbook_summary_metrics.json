@@ -1,0 +1,33 @@
+{
+  "total_rows_scored": 30000,
+  "top_1000_impressions_covered": 44770876,
+  "action_distribution": [
+    {
+      "Recommended Action": "monitor",
+      "Page Count (n)": 14939,
+      "Portfolio Share (%)": 49.8
+    },
+    {
+      "Recommended Action": "refresh_and_review_ctr",
+      "Page Count (n)": 10720,
+      "Portfolio Share (%)": 35.7
+    },
+    {
+      "Recommended Action": "review_ux_and_intent",
+      "Page Count (n)": 2980,
+      "Portfolio Share (%)": 9.9
+    },
+    {
+      "Recommended Action": "refresh",
+      "Page Count (n)": 1341,
+      "Portfolio Share (%)": 4.5
+    },
+    {
+      "Recommended Action": "expand_and_refresh",
+      "Page Count (n)": 20,
+      "Portfolio Share (%)": 0.1
+    }
+  ],
+  "monitoring_status": "PASS",
+  "retrain_schedule": "Quarterly"
+}
