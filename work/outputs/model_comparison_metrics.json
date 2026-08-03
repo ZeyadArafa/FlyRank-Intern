@@ -1,0 +1,51 @@
+{
+  "test_rows": 3381,
+  "test_base_rate": 0.5249926057379474,
+  "results": [
+    {
+      "Model / System": "Dataset Base Rate",
+      "Precision@10": "0.525",
+      "Precision@20": "0.525",
+      "Precision@50": "0.525",
+      "Precision@100": "0.525",
+      "ROC-AUC": "N/A",
+      "PR-AUC": "N/A"
+    },
+    {
+      "Model / System": "Week-4 Rule Baseline",
+      "Precision@10": "0.400",
+      "Precision@20": "0.350",
+      "Precision@50": "0.460",
+      "Precision@100": "0.440",
+      "ROC-AUC": "0.580",
+      "PR-AUC": "0.555"
+    },
+    {
+      "Model / System": "Logistic Regression",
+      "Precision@10": "0.900",
+      "Precision@20": "0.800",
+      "Precision@50": "0.720",
+      "Precision@100": "0.810",
+      "ROC-AUC": "0.660",
+      "PR-AUC": "0.666"
+    },
+    {
+      "Model / System": "Decision Tree (depth=5)",
+      "Precision@10": "0.700",
+      "Precision@20": "0.650",
+      "Precision@50": "0.660",
+      "Precision@100": "0.690",
+      "ROC-AUC": "0.666",
+      "PR-AUC": "0.636"
+    },
+    {
+      "Model / System": "Random Forest (n=200)",
+      "Precision@10": "0.400",
+      "Precision@20": "0.500",
+      "Precision@50": "0.720",
+      "Precision@100": "0.740",
+      "ROC-AUC": "0.666",
+      "PR-AUC": "0.657"
+    }
+  ]
+}
