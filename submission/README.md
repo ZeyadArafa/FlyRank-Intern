@@ -1,7 +1,18 @@
-# submission/
+# Submission — Capstone Research Paper
 
-One file lives here: **`paper_url.txt`**.
+This folder contains the mandatory submission artifact for **Task ML-11 (Ship the Paper)**.
 
-When your capstone research paper is deployed, replace the placeholder in
-`paper_url.txt` with **exactly one line — the direct URL of your deployed paper**.
-Nothing else goes in this folder. This file is mandatory: it is how your paper is found.
+## Deployed Paper Information
+
+- **Deployed Research Paper URL:** [`https://zeyadarafa.github.io/FlyRank-Intern/`](https://zeyadarafa.github.io/FlyRank-Intern/)
+- **Submission URL File:** [`paper_url.txt`](paper_url.txt)
+- **Repository URL:** [`https://github.com/ZeyadArafa/FlyRank-Intern`](https://github.com/ZeyadArafa/FlyRank-Intern)
+- **Track & Assignment:** Machine Learning Internship — ML-11 Capstone
+- **Author:** Zeyad Ayman (`ZeyadArafa`)
+
+## File Index
+
+- **`paper_url.txt`**: Contains exactly one line with the live public GitHub Pages URL:
+  ```text
+  https://zeyadarafa.github.io/FlyRank-Intern/
+  ```
