@@ -4,6 +4,9 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## Submissions Index
 
+- **Assignment FL-02 (Prompt Engineering v2):** [`week_02_fl02_prompting_fundamentals.md`](week_02_fl02_prompting_fundamentals.md)
+  - **Topic:** Prompting Fundamentals on Real Tasks v2 (Code: `FL-02`)
+  - **Content:** 6 iterations on FL-01 Target Task 1 (Feature Engineering & Leakage Verification), 5 named techniques (Role Assignment, Context & Motivation, Few-Shot Examples, Output Structure, Step Decomposition), cross-model evaluation (Claude vs ChatGPT), and reusable template.
 - **Week 2 Assignment (Prompt Engineering):** [`week_02_prompt_ladder.md`](week_02_prompt_ladder.md)
   - **Topic:** The Prompt Ladder: Systematically Engineering AI Performance (Code: `FL-02-PromptLadder`)
   - **Content:** 6 prompt ladder iterations (baseline + 5 single-layer additions), 4 diagnostic notes per run, honest "made it worse" flop moment (Run 4 constraint nagging), and final parameterized reusable prompt template.
@@ -26,6 +29,7 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## File Index
 
+- **`week_02_fl02_prompting_fundamentals.md`**: Assignment FL-02 Prompting Fundamentals documentation.
 - **`week_02_prompt_ladder.md`**: The Prompt Ladder & Engineering documentation.
 - **`week_02_frame_it_as_cases.md`**: Week 2 Case Studies & Voice Card documentation.
 - **`week_01_what_are_you_proving.md`**: Proof Statement & Core Positioning documentation.
@@ -33,6 +37,7 @@ This directory contains the submission artifacts for assignments and the capston
 - **`week_01_draw_the_path.md`**: Portfolio Sitemap & Setup documentation.
 - **`paper_url.txt`**: Public URL for the deployed research paper.
 - **`figures/`**: Visual artifacts and screenshots.
+
 
 
 
