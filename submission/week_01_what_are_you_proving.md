@@ -14,7 +14,7 @@
 
 A portfolio without a clear, narrow claim is just decoration. This document establishes the foundational **Proof Statement** and **One-Line Why** for Zeyad Ayman's Machine Learning Search Operations portfolio. It documents the AI interview refining process, defines the target decision-maker, and establishes the single conversion objective.
 
-![Figure 1: Proof Statement & One-Line Why Graphic Card](figures/proving_statement_card.png)
+![Figure 1: Proof Statement & One-Line Why Graphic Card](./figures/proving_statement_card.png)
 *Figure 1: Proof Statement Card — The One Claim, The One Person, The One Action, and The One-Line Why.*
 
 ---
@@ -45,7 +45,7 @@ A portfolio without a clear, narrow claim is just decoration. This document esta
 
 To ensure the claim is genuine, narrow, and impossible to fake, I used Anthropic Claude as a critical thinking partner to interview me and push back against generic framing.
 
-![Figure 2: AI Thinking Partner Interview Session Screenshot](figures/claude_interview_session.png)
+![Figure 2: AI Thinking Partner Interview Session Screenshot](./figures/claude_interview_session.png)
 *Figure 2: AI Thinking Partner Session — Interactive interview with Anthropic Claude refining the proof statement.*
 
 ### The AI Interview Dialogue Log

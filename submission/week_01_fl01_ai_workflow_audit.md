@@ -35,7 +35,7 @@ Tasks are classified using Ethan Mollick's 4-tier AI delegation matrix:
 3. **Collaborate with AI:** Iterative problem-solving, code debugging, and paper synthesis where human and AI work in tight feedback loops.
 4. **Fully Automate:** Deterministic code linting, CI/CD builds, and unit testing scripts running automatically without human or LLM intervention.
 
-![Figure 1: AI Workflow Audit Dashboard Table](figures/fl01_workflow_audit_table.png)
+![Figure 1: AI Workflow Audit Dashboard Table](./figures/fl01_workflow_audit_table.png)
 *Figure 1: Visual Workflow Audit Table — 12 authentic weekly tasks classified across Ethan Mollick's 4 delegation tiers.*
 
 ### The 12-Task Audit Table
@@ -61,7 +61,7 @@ Tasks are classified using Ethan Mollick's 4-tier AI delegation matrix:
 
 All required free accounts have been set up and verified. Enrollment in the Anthropic Academy course *AI Fluency: Framework & Foundations* has been completed with Module 1 finished.
 
-![Figure 2: Anthropic Academy Enrollment Verification](figures/fl01_academy_enrollment.png)
+![Figure 2: Anthropic Academy Enrollment Verification](./figures/fl01_academy_enrollment.png)
 *Figure 2: Anthropic Academy Enrollment & Module 1 Completion Verification for Zeyad Ayman (`ZeyadArafa`).*
 
 ### Tool Setup & Learning Verification Matrix
@@ -111,7 +111,7 @@ A dedicated Claude Project was initialized specifically for the General AI Fluen
 - **Project Title:** `FlyRank-FL01-ZeyadArafa`
 - **Target Track:** General AI Fluency (FL-01 through FL-04)
 
-![Figure 3: Claude Project Setup Screenshot](figures/fl01_claude_project_setup.png)
+![Figure 3: Claude Project Setup Screenshot](./figures/fl01_claude_project_setup.png)
 *Figure 3: Anthropic Claude Project Configuration showing custom instructions for Zeyad Ayman.*
 
 ### Un-Redacted Custom Instructions

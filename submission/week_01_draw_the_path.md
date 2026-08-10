@@ -56,7 +56,7 @@ To ensure the portfolio represents authentic, rigorous ML engineering work, the 
 
 Every page in this 4-page sitemap strictly earns its place by guiding "The One Person" directly toward "The One Action" while validating "The One Claim."
 
-![Figure 1: Portfolio Sitemap Sketch Blueprint](figures/sitemap_sketch.png)
+![Figure 1: Portfolio Sitemap Sketch Blueprint](./figures/sitemap_sketch.png)
 *Figure 1: Portfolio Sitemap Blueprint — 4-page minimalist architecture connecting Landing Page, Case Study, About & Ethics, and Contact Booking.*
 
 ### Sitemap Architecture (Mermaid Diagram)
@@ -99,7 +99,7 @@ graph TD
 
 Accounts have been created and verified across all four required AI engines:
 
-![Figure 2: Free AI Toolkit Accounts Setup Verification](figures/toolkit_accounts_setup.png)
+![Figure 2: Free AI Toolkit Accounts Setup Verification](./figures/toolkit_accounts_setup.png)
 *Figure 2: Zero-Budget AI Toolkit Verification — Active free accounts for Anthropic Claude, OpenAI ChatGPT, Google Gemini, and Perplexity AI.*
 
 | AI Engine | Account Status | Workspace Role & Purpose |
@@ -118,7 +118,7 @@ A dedicated Claude Project was created to follow Zeyad throughout the 8-week pro
 - **Project Name:** `FlyRank-Search-ML-Portfolio-2026`
 - **Project Scope:** 8-Week ML Search Intelligence & Portfolio Development
 
-![Figure 3: Claude Project Tutor Custom Instructions Configuration](figures/claude_project_setup.png)
+![Figure 3: Claude Project Tutor Custom Instructions Configuration](./figures/claude_project_setup.png)
 *Figure 3: Anthropic Claude Project Setup — Configured Project environment titled FlyRank-Search-ML-Portfolio-2026 with custom tutor instructions.*
 
 ### Custom Instructions (Genuine & Un-redacted)
@@ -153,7 +153,7 @@ Instruction Rules for Tutor:
 
 The sitemap was pressure-tested using the configured Claude Project tutor to verify that every page earns its place against the claim and the action.
 
-![Figure 4: Claude Pressure-Test Chat Prompt & Response](figures/pressure_test_output.png)
+![Figure 4: Claude Pressure-Test Chat Prompt & Response](./figures/pressure_test_output.png)
 *Figure 4: Claude Pressure-Test Session — Real execution of the sitemap critique prompt and Claude's feedback response.*
 
 ### The Pressure-Test Prompt
