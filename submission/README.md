@@ -4,6 +4,18 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## Submissions Index
 
+- **Assignment FL-04 (Core Automation):** [`week_04_fl04_automation_workflow.md`](week_04_fl04_automation_workflow.md)
+  - **Topic:** Ship an Automation Workflow v2 (Code: `FL-04`)
+  - **Content:** 4-step pipeline (Ingest $\rightarrow$ Synthesize $\rightarrow$ Categorize $\rightarrow$ Audit), 5 real pseudonymized FlyRank input runs, time-saved accounting (saves 28.5 hrs/sprint), and failure points (YMYL compliance & SERP shifts).
+- **Week 4 Assignment (Deployment):** [`week_04_empty_but_live.md`](week_04_empty_but_live.md)
+  - **Topic:** Empty but Live: Ship a Blank Page (Code: `FL-04-EmptyButLive`)
+  - **Content:** Public live URL (`https://zeyadarafa.github.io/FlyRank-Intern/`), multi-device access verification (desktop & mobile 200 OK), HTML5/CSS stack confirmation, and Claude Project context loading.
+- **Week 4 Assignment (Tech Stack):** [`week_04_three_roads_stack.md`](week_04_three_roads_stack.md)
+  - **Topic:** Three Roads: Choose Your Stack with AI (Code: `FL-04-ThreeRoads`)
+  - **Content:** Evaluation of 4 build constraints, 3 stack options (HTML5/CSS, Next.js/Vercel, Framer/Webflow), front-runner pressure-testing, and written rationale for Static HTML5 + Vanilla CSS + GitHub Pages.
+- **Week 3 Assignment (Content & CTAs):** [`week_03_the_through_line.md`](week_03_the_through_line.md)
+  - **Topic:** The Through-Line: Map Content & CTAs (Code: `FL-03-ThroughLine`)
+  - **Content:** Sharpened one-line claim (0.900 Precision@10 on 30k assets), page-by-page content & CTA map, case study assignments, and "still need to gather" proof checklist.
 - **Week 3 Assignment (Curation):** [`week_03_curate_your_images.md`](week_03_curate_your_images.md)
   - **Topic:** Kill Your Darlings: Curate Your Images (Code: `FL-03-CurateImages`)
   - **Content:** Master image inventory mapped to sitemap, real capture decisions for work & real photo for author, connective tissue style locks, and 2 explicit rejection decisions (killing 3D AI brain graphics & rainbow charts).
@@ -35,6 +47,10 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## File Index
 
+- **`week_04_fl04_automation_workflow.md`**: Assignment FL-04 Automation Workflow documentation.
+- **`week_04_empty_but_live.md`**: Week 4 Deployment & Live Access documentation.
+- **`week_04_three_roads_stack.md`**: Week 4 Tech Stack Evaluation documentation.
+- **`week_03_the_through_line.md`**: Week 3 Content Map & CTAs documentation.
 - **`week_03_curate_your_images.md`**: Week 3 Curate Your Images documentation.
 - **`week_03_identity_kit.md`**: Week 3 Identity Kit & Design System documentation.
 - **`week_02_fl02_prompting_fundamentals.md`**: Assignment FL-02 Prompting Fundamentals documentation.
@@ -45,6 +61,7 @@ This directory contains the submission artifacts for assignments and the capston
 - **`week_01_draw_the_path.md`**: Portfolio Sitemap & Setup documentation.
 - **`paper_url.txt`**: Public URL for the deployed research paper.
 - **`figures/`**: Visual artifacts and screenshots.
+
 
 
 
