@@ -4,6 +4,9 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## Submissions Index
 
+- **Week 2 Assignment (Prompt Engineering):** [`week_02_prompt_ladder.md`](week_02_prompt_ladder.md)
+  - **Topic:** The Prompt Ladder: Systematically Engineering AI Performance (Code: `FL-02-PromptLadder`)
+  - **Content:** 6 prompt ladder iterations (baseline + 5 single-layer additions), 4 diagnostic notes per run, honest "made it worse" flop moment (Run 4 constraint nagging), and final parameterized reusable prompt template.
 - **Week 2 Assignment (Foundations):** [`week_02_frame_it_as_cases.md`](week_02_frame_it_as_cases.md)
   - **Topic:** Frame It as Cases: Work That Speaks for Itself
   - **Content:** 6-word Standing Voice Card, Before/After copy editing comparison (generic AI vs plain-spoken technical copy), 3-beat framed case studies for all sitemap pages, bio & CTA copy.
@@ -23,12 +26,14 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## File Index
 
+- **`week_02_prompt_ladder.md`**: The Prompt Ladder & Engineering documentation.
 - **`week_02_frame_it_as_cases.md`**: Week 2 Case Studies & Voice Card documentation.
 - **`week_01_what_are_you_proving.md`**: Proof Statement & Core Positioning documentation.
 - **`week_01_fl01_ai_workflow_audit.md`**: Assignment FL-01 documentation (Workflow Audit, Academy Setup, Claude Project, Target Tasks).
 - **`week_01_draw_the_path.md`**: Portfolio Sitemap & Setup documentation.
 - **`paper_url.txt`**: Public URL for the deployed research paper.
-- **`figures/`**: Visual artifacts and screenshots (`voice_card_dashboard.png`, `case_study_three_beats.png`, etc.).
+- **`figures/`**: Visual artifacts and screenshots.
+
 
 
 
