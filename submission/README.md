@@ -4,6 +4,9 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## Submissions Index
 
+- **General AI Fluency Capstone Project:** [`week_06_fl_capstone_impact_project.md`](week_06_fl_capstone_impact_project.md)
+  - **Topic:** General AI Fluency · Impact Project Capstone (Code: `FL-Capstone`)
+  - **Content:** Master synthesis of AI Stack Mastery (Prompting, Workflows, MCP, Personal Agent `FlyRank-Decay-Scout-v1`), Personal Brand & Public Website Infrastructure (`https://zeyadarafa.github.io/FlyRank-Intern/`), and Empirical Machine Learning Results (**0.900 Precision@10 vs 0.400 rule baseline** on an out-of-domain 6-client holdout split, saving $7,500/week in wasted refresh spend across 30,000 assets).
 - **Week 9 Assignment (Plant Flag & Future Plan):** [`week_09_plant_your_flag_and_future_plan.md`](week_09_plant_your_flag_and_future_plan.md)
   - **Topic:** Plant Your Flag: Domain + Badge & The Plan to Keep Building
   - **Content:** Live HTTPS URL (`https://zeyadarafa.github.io/FlyRank-Intern/`), analytics tracking, social share card, FlyRank Graduate Badge in footer, 3-beat future case shape, next project name, and recurring calendar nudge.
@@ -83,6 +86,7 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## File Index
 
+- **`week_06_fl_capstone_impact_project.md`**: Master Capstone Impact Project Submission documentation.
 - **`week_09_plant_your_flag_and_future_plan.md`**: Week 9 Plant Your Flag & Future Plan documentation.
 - **`week_09_break_your_own_site.md`**: Week 9 Break Your Own Site documentation.
 - **`week_08_fl09_documentation_demo_video.md`**: Assignment FL-09 Documentation & Video documentation.
@@ -108,13 +112,6 @@ This directory contains the submission artifacts for assignments and the capston
 - **`week_01_fl01_ai_workflow_audit.md`**: Assignment FL-01 documentation (Workflow Audit, Academy Setup, Claude Project, Target Tasks).
 - **`week_01_draw_the_path.md`**: Portfolio Sitemap & Setup documentation.
 - **`paper_url.txt`**: Public URL for the deployed research paper.
-- **`figures/`**: Visual artifacts and screenshots.
-
-
-
-
-
-
 
 
 
