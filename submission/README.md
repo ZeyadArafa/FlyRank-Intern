@@ -4,6 +4,18 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## Submissions Index
 
+- **Assignment FL-07 (Agent Checkpoint 1 MVP):** [`week_05_fl07_build_the_agent.md`](week_05_fl07_build_the_agent.md)
+  - **Topic:** Build the Agent (Code: `FL-07-BuildAgent`)
+  - **Content:** Working Agent MVP (`FlyRank-Decay-Scout-v1`), 4-phase chronological build log, spec deviation notes (web scraper cut for latency), and raw unedited 2-minute run capture log.
+- **Assignment FL-06 (Agent Design Spec):** [`week_05_fl06_design_personal_agent.md`](week_05_fl06_design_personal_agent.md)
+  - **Topic:** Design Your Personal Agent (Code: `FL-06-AgentDesign`)
+  - **Content:** 2-page agent spec (~10 build hours), 4 tools & filesystem MCP access plan, 5 pre-build evaluation cases, safety guardrails (banning auto-publishing), and platform choice justification.
+- **Week 5 Assignment (Public Shipping):** [`week_05_ship_the_ugly_one.md`](week_05_ship_the_ugly_one.md)
+  - **Topic:** Ship the Ugly One (Code: `FL-05-ShipUgly`)
+  - **Content:** Public live URL (`https://zeyadarafa.github.io/FlyRank-Intern/`), sitemap page reachability, real reviewer feedback (Mirza Ašćerić), HTML5/CSS architecture, and honest "still ugly" list.
+- **Assignment FL-05 (Agent Concepts & MCP):** [`week_04_fl05_agent_concepts_mcp.md`](week_04_fl05_agent_concepts_mcp.md)
+  - **Topic:** Agent Concepts and MCP Basics (Code: `FL-05-AgentMCP`)
+  - **Content:** 750-word technical explainer on Workflow vs Agent, MCP primitives (Tools, Resources, Prompts), 3 tool execution tasks (`list_dir`, `run_command`, `generate_image`), and concrete agent upgrade plan for FL-04.
 - **Assignment FL-04 (Core Automation):** [`week_04_fl04_automation_workflow.md`](week_04_fl04_automation_workflow.md)
   - **Topic:** Ship an Automation Workflow v2 (Code: `FL-04`)
   - **Content:** 4-step pipeline (Ingest $\rightarrow$ Synthesize $\rightarrow$ Categorize $\rightarrow$ Audit), 5 real pseudonymized FlyRank input runs, time-saved accounting (saves 28.5 hrs/sprint), and failure points (YMYL compliance & SERP shifts).
@@ -47,6 +59,10 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## File Index
 
+- **`week_05_fl07_build_the_agent.md`**: Assignment FL-07 Build the Agent documentation.
+- **`week_05_fl06_design_personal_agent.md`**: Assignment FL-06 Agent Design Spec documentation.
+- **`week_05_ship_the_ugly_one.md`**: Week 5 Ship the Ugly One documentation.
+- **`week_04_fl05_agent_concepts_mcp.md`**: Assignment FL-05 Agent Concepts & MCP documentation.
 - **`week_04_fl04_automation_workflow.md`**: Assignment FL-04 Automation Workflow documentation.
 - **`week_04_empty_but_live.md`**: Week 4 Deployment & Live Access documentation.
 - **`week_04_three_roads_stack.md`**: Week 4 Tech Stack Evaluation documentation.
@@ -61,6 +77,7 @@ This directory contains the submission artifacts for assignments and the capston
 - **`week_01_draw_the_path.md`**: Portfolio Sitemap & Setup documentation.
 - **`paper_url.txt`**: Public URL for the deployed research paper.
 - **`figures/`**: Visual artifacts and screenshots.
+
 
 
 
