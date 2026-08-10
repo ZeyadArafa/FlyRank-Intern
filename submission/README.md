@@ -4,6 +4,9 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## Submissions Index
 
+- **Week 3 Assignment (Design System):** [`week_03_identity_kit.md`](week_03_identity_kit.md)
+  - **Topic:** Decide Once: Build Your Identity Kit (Code: `FL-03-IdentityKit`)
+  - **Content:** Typography choices (`Outfit` + `Inter`), 4-color palette hex codes (`#0EA5E9`, `#0F172A`, `#1E293B`, `#F8FAFC`), `[ZA.]` logo & SVG favicon, two-line style note, and CSS tokens.
 - **Assignment FL-02 (Prompt Engineering v2):** [`week_02_fl02_prompting_fundamentals.md`](week_02_fl02_prompting_fundamentals.md)
   - **Topic:** Prompting Fundamentals on Real Tasks v2 (Code: `FL-02`)
   - **Content:** 6 iterations on FL-01 Target Task 1 (Feature Engineering & Leakage Verification), 5 named techniques (Role Assignment, Context & Motivation, Few-Shot Examples, Output Structure, Step Decomposition), cross-model evaluation (Claude vs ChatGPT), and reusable template.
@@ -29,6 +32,7 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## File Index
 
+- **`week_03_identity_kit.md`**: Week 3 Identity Kit & Design System documentation.
 - **`week_02_fl02_prompting_fundamentals.md`**: Assignment FL-02 Prompting Fundamentals documentation.
 - **`week_02_prompt_ladder.md`**: The Prompt Ladder & Engineering documentation.
 - **`week_02_frame_it_as_cases.md`**: Week 2 Case Studies & Voice Card documentation.
@@ -37,6 +41,7 @@ This directory contains the submission artifacts for assignments and the capston
 - **`week_01_draw_the_path.md`**: Portfolio Sitemap & Setup documentation.
 - **`paper_url.txt`**: Public URL for the deployed research paper.
 - **`figures/`**: Visual artifacts and screenshots.
+
 
 
 
