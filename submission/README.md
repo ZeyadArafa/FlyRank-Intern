@@ -4,6 +4,9 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## Submissions Index
 
+- **Week 3 Assignment (Curation):** [`week_03_curate_your_images.md`](week_03_curate_your_images.md)
+  - **Topic:** Kill Your Darlings: Curate Your Images (Code: `FL-03-CurateImages`)
+  - **Content:** Master image inventory mapped to sitemap, real capture decisions for work & real photo for author, connective tissue style locks, and 2 explicit rejection decisions (killing 3D AI brain graphics & rainbow charts).
 - **Week 3 Assignment (Design System):** [`week_03_identity_kit.md`](week_03_identity_kit.md)
   - **Topic:** Decide Once: Build Your Identity Kit (Code: `FL-03-IdentityKit`)
   - **Content:** Typography choices (`Outfit` + `Inter`), 4-color palette hex codes (`#0EA5E9`, `#0F172A`, `#1E293B`, `#F8FAFC`), `[ZA.]` logo & SVG favicon, two-line style note, and CSS tokens.
@@ -32,6 +35,7 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## File Index
 
+- **`week_03_curate_your_images.md`**: Week 3 Curate Your Images documentation.
 - **`week_03_identity_kit.md`**: Week 3 Identity Kit & Design System documentation.
 - **`week_02_fl02_prompting_fundamentals.md`**: Assignment FL-02 Prompting Fundamentals documentation.
 - **`week_02_prompt_ladder.md`**: The Prompt Ladder & Engineering documentation.
@@ -41,6 +45,7 @@ This directory contains the submission artifacts for assignments and the capston
 - **`week_01_draw_the_path.md`**: Portfolio Sitemap & Setup documentation.
 - **`paper_url.txt`**: Public URL for the deployed research paper.
 - **`figures/`**: Visual artifacts and screenshots.
+
 
 
 
