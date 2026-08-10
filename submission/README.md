@@ -4,6 +4,9 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## Submissions Index
 
+- **Week 2 Assignment (Foundations):** [`week_02_frame_it_as_cases.md`](week_02_frame_it_as_cases.md)
+  - **Topic:** Frame It as Cases: Work That Speaks for Itself
+  - **Content:** 6-word Standing Voice Card, Before/After copy editing comparison (generic AI vs plain-spoken technical copy), 3-beat framed case studies for all sitemap pages, bio & CTA copy.
 - **Week 1 Assignment (Proof Statement):** [`week_01_what_are_you_proving.md`](week_01_what_are_you_proving.md)
   - **Topic:** What Are You Proving?
   - **Content:** One-paragraph proof statement (The One Claim, The One Person, The One Action), One-Line Why (beyond LinkedIn/CV), AI Thinking Partner interview dialogue log, and visual graphic card.
@@ -20,11 +23,13 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## File Index
 
+- **`week_02_frame_it_as_cases.md`**: Week 2 Case Studies & Voice Card documentation.
 - **`week_01_what_are_you_proving.md`**: Proof Statement & Core Positioning documentation.
 - **`week_01_fl01_ai_workflow_audit.md`**: Assignment FL-01 documentation (Workflow Audit, Academy Setup, Claude Project, Target Tasks).
 - **`week_01_draw_the_path.md`**: Portfolio Sitemap & Setup documentation.
 - **`paper_url.txt`**: Public URL for the deployed research paper.
-- **`figures/`**: Visual artifacts and screenshots (`proving_statement_card.png`, `claude_interview_session.png`, `fl01_workflow_audit_table.png`, etc.).
+- **`figures/`**: Visual artifacts and screenshots (`voice_card_dashboard.png`, `case_study_three_beats.png`, etc.).
+
 
 
 
