@@ -4,6 +4,30 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## Submissions Index
 
+- **Week 9 Assignment (Plant Flag & Future Plan):** [`week_09_plant_your_flag_and_future_plan.md`](week_09_plant_your_flag_and_future_plan.md)
+  - **Topic:** Plant Your Flag: Domain + Badge & The Plan to Keep Building
+  - **Content:** Live HTTPS URL (`https://zeyadarafa.github.io/FlyRank-Intern/`), analytics tracking, social share card, FlyRank Graduate Badge in footer, 3-beat future case shape, next project name, and recurring calendar nudge.
+- **Week 9 Assignment (Hardening & SEO):** [`week_09_break_your_own_site.md`](week_09_break_your_own_site.md)
+  - **Topic:** Break Your Own Site (Code: `FL-09-BreakSite`)
+  - **Content:** Destructive edge-case testing (double click fix, empty input validation), production OpenGraph SEO meta tags, 99+ Lighthouse performance audit, and triage matrix.
+- **Assignment FL-09 (Documentation & Demo Video):** [`week_08_fl09_documentation_demo_video.md`](week_08_fl09_documentation_demo_video.md)
+  - **Topic:** Documentation and Demo Video (Code: `FL-09-Documentation`)
+  - **Content:** Reproducible README for `FlyRank-Decay-Scout-v1`, architecture diagram, 0.900 Precision@10 evaluation matrix, limitations list, and 4-minute unlisted demo video link with voice narration.
+- **Week 8 Assignment (Dynamic Feature):** [`week_08_make_it_do_something.md`](week_08_make_it_do_something.md)
+  - **Topic:** Make It Do Something (Code: `FL-08-MakeItDoSomething`)
+  - **Content:** Working 15-minute Strategy Audit Booking Form, serverless FormSubmit endpoint, live test delivery verification, and plain-words frontend vs backend data flow explainer.
+- **Week 7 Assignment (Design Review):** [`week_07_survive_the_crit.md`](week_07_survive_the_crit.md)
+  - **Topic:** Survive the Crit (Code: `FL-07-SurviveCrit`)
+  - **Content:** Mentor design review (Mirza Ašćerić), 10-second positioning test results, honest Must-Fix vs Nice-to-Have triage, and live site scroll-margin CSS fixes.
+- **Week 7 Assignment (Mobile Audit):** [`week_07_open_it_on_your_phone.md`](week_07_open_it_on_your_phone.md)
+  - **Topic:** Open It on Your Phone (Code: `FL-07-MobileAudit`)
+  - **Content:** Mobile-first audit across 375px/768px/1280px viewports, CSS media query heading & touch target fixes (44px min height), responsive table scrolling, and link verification.
+- **Week 6 Assignment (Build Explanation):** [`week_06_explain_it_like_you_built_it.md`](week_06_explain_it_like_you_built_it.md)
+  - **Topic:** Explain It Like You Built It (Code: `FL-06-ExplainBuild`)
+  - **Content:** Plain-words explanation of CSS custom properties (`:root` tokens), responsive flexbox container wrapping (`flex-wrap`), and automated GitHub Pages deployment pipelines.
+- **Assignment PF-04 (Personal Website & DNS):** [`week_05_pf04_personal_website_dns.md`](week_05_pf04_personal_website_dns.md)
+  - **Topic:** Personal Website Live on the FlyRank Domain (Code: `PF-04-PersonalWebsite`)
+  - **Content:** Public live HTTPS URL, positioning links, 1-page plain-words DNS walkthrough (CNAME records & 10-step resolution flow), and subdomain provisioning checklist (`zeyadarafa.flyrank.ai`).
 - **Assignment FL-07 (Agent Checkpoint 1 MVP):** [`week_05_fl07_build_the_agent.md`](week_05_fl07_build_the_agent.md)
   - **Topic:** Build the Agent (Code: `FL-07-BuildAgent`)
   - **Content:** Working Agent MVP (`FlyRank-Decay-Scout-v1`), 4-phase chronological build log, spec deviation notes (web scraper cut for latency), and raw unedited 2-minute run capture log.
@@ -59,6 +83,14 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## File Index
 
+- **`week_09_plant_your_flag_and_future_plan.md`**: Week 9 Plant Your Flag & Future Plan documentation.
+- **`week_09_break_your_own_site.md`**: Week 9 Break Your Own Site documentation.
+- **`week_08_fl09_documentation_demo_video.md`**: Assignment FL-09 Documentation & Video documentation.
+- **`week_08_make_it_do_something.md`**: Week 8 Make It Do Something documentation.
+- **`week_07_survive_the_crit.md`**: Week 7 Survive the Crit documentation.
+- **`week_07_open_it_on_your_phone.md`**: Week 7 Open It on Your Phone documentation.
+- **`week_06_explain_it_like_you_built_it.md`**: Week 6 Explain It Like You Built It documentation.
+- **`week_05_pf04_personal_website_dns.md`**: Assignment PF-04 Personal Website & DNS documentation.
 - **`week_05_fl07_build_the_agent.md`**: Assignment FL-07 Build the Agent documentation.
 - **`week_05_fl06_design_personal_agent.md`**: Assignment FL-06 Agent Design Spec documentation.
 - **`week_05_ship_the_ugly_one.md`**: Week 5 Ship the Ugly One documentation.
@@ -77,6 +109,7 @@ This directory contains the submission artifacts for assignments and the capston
 - **`week_01_draw_the_path.md`**: Portfolio Sitemap & Setup documentation.
 - **`paper_url.txt`**: Public URL for the deployed research paper.
 - **`figures/`**: Visual artifacts and screenshots.
+
 
 
 
