@@ -4,9 +4,12 @@ This directory contains the submission artifacts for assignments, milestone chec
 
 ## Submissions Index
 
+- **Capstone Deliverable (Send the Link: Launch, Demo & Story):** [`week_08_send_the_link_launch_demo_story.md`](week_08_send_the_link_launch_demo_story.md)
+  - **Topic:** Send the Link: Launch, Demo & Story (Code: `FL-SendTheLink`)
+  - **Content:** Concrete "how to add the next case study" protocol (Week 2 3-beat shape), plug-and-play HTML component template, named next real piece of work (`FlyRank-Decay-Scout-v2` GSC-DuckDB Streaming Engine), evidence of recurring monthly calendar reminder, and preserved Claude Project build context.
 - **Assignment FL-10 (Final Package, Retrospective & Capstone Checkpoint):** [`week_08_fl10_final_package_retrospective_capstone.md`](week_08_fl10_final_package_retrospective_capstone.md)
   - **Topic:** Final Package, Retrospective, and Capstone (Code: `FL-10-FinalCheckpoint`)
-  - **Content:** Track-wide Master Deliverables Index (all 26 weekly deliverables), 684-word Retrospective to Week 1 self, complete 45.5-hour verified hours log, live site & build-in-public story post, AI career partner mock interviews, and final checkpoint sign-off.
+  - **Content:** Track-wide Master Deliverables Index (all 27 weekly deliverables), 684-word Retrospective to Week 1 self, complete 45.5-hour verified hours log, live site & build-in-public story post, AI career partner mock interviews, and final checkpoint sign-off.
 - **Assignment FL-09 (Documentation & Demo Video):** [`week_08_fl09_documentation_demo_video.md`](week_08_fl09_documentation_demo_video.md)
   - **Topic:** Documentation and Demo Video (Code: `FL-09-Documentation`)
   - **Content:** Reproducible README for `FlyRank-Decay-Scout-v1`, architecture diagram, 0.900 Precision@10 evaluation matrix, limitations list, AI transparency statement, and 4-minute unlisted demo video link with voice narration.
@@ -89,6 +92,7 @@ This directory contains the submission artifacts for assignments, milestone chec
 
 ## File Index
 
+- **`week_08_send_the_link_launch_demo_story.md`**: Capstone Send the Link: Launch, Demo & Story documentation.
 - **`week_08_fl10_final_package_retrospective_capstone.md`**: Assignment FL-10 Final Package, Retrospective & Capstone Checkpoint documentation.
 - **`week_08_fl09_documentation_demo_video.md`**: Assignment FL-09 Documentation & Video documentation.
 - **`week_06_fl_capstone_impact_project.md`**: Master Capstone Impact Project Submission documentation.

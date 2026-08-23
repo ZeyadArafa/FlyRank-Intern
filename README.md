@@ -160,6 +160,7 @@ In alignment with the FlyRank Honest Claim Discipline:
 
 | Phase / Code | Deliverable Title | Documentation & Artifact Link |
 |---|---|---|
+| **Capstone Deliverable** | **Send the Link: Launch, Demo & Story** | [`submission/week_08_send_the_link_launch_demo_story.md`](file:///d:/FlyRank%20Intern/FlyRank-Intern/submission/week_08_send_the_link_launch_demo_story.md) |
 | **Checkpoint FL-10** | **Final Package, Retrospective & Capstone** | [`submission/week_08_fl10_final_package_retrospective_capstone.md`](file:///d:/FlyRank%20Intern/FlyRank-Intern/submission/week_08_fl10_final_package_retrospective_capstone.md) |
 | **Assignment FL-09** | **Documentation & Unlisted Demo Video** | [`submission/week_08_fl09_documentation_demo_video.md`](file:///d:/FlyRank%20Intern/FlyRank-Intern/submission/week_08_fl09_documentation_demo_video.md) |
 | **Capstone Project** | **Master Capstone Impact Project** | [`submission/week_06_fl_capstone_impact_project.md`](file:///d:/FlyRank%20Intern/FlyRank-Intern/submission/week_06_fl_capstone_impact_project.md) |
@@ -171,7 +172,7 @@ In alignment with the FlyRank Honest Claim Discipline:
 | **Assignment FL-02** | **Prompting Fundamentals on Real Tasks** | [`submission/week_02_fl02_prompting_fundamentals.md`](file:///d:/FlyRank%20Intern/FlyRank-Intern/submission/week_02_fl02_prompting_fundamentals.md) |
 | **Assignment FL-01** | **AI Workflow Audit & Toolkit Setup** | [`submission/week_01_fl01_ai_workflow_audit.md`](file:///d:/FlyRank%20Intern/FlyRank-Intern/submission/week_01_fl01_ai_workflow_audit.md) |
 | **Assignment PF-04** | **Personal Website & DNS Walkthrough** | [`submission/week_05_pf04_personal_website_dns.md`](file:///d:/FlyRank%20Intern/FlyRank-Intern/submission/week_05_pf04_personal_website_dns.md) |
-| **Full Submissions Index** | **Complete 26-Deliverable Index** | [`submission/README.md`](file:///d:/FlyRank%20Intern/FlyRank-Intern/submission/README.md) |
+| **Full Submissions Index** | **Complete 27-Deliverable Index** | [`submission/README.md`](file:///d:/FlyRank%20Intern/FlyRank-Intern/submission/README.md) |
 
 ---
 
