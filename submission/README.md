@@ -1,9 +1,15 @@
-# Submissions Index — FlyRank ML Internship
+# Submissions Index — FlyRank ML & General AI Fluency Internship
 
-This directory contains the submission artifacts for assignments and the capstone project.
+This directory contains the submission artifacts for assignments, milestone checkpoints, and the capstone project.
 
 ## Submissions Index
 
+- **Assignment FL-10 (Final Package, Retrospective & Capstone Checkpoint):** [`week_08_fl10_final_package_retrospective_capstone.md`](week_08_fl10_final_package_retrospective_capstone.md)
+  - **Topic:** Final Package, Retrospective, and Capstone (Code: `FL-10-FinalCheckpoint`)
+  - **Content:** Track-wide Master Deliverables Index (all 26 weekly deliverables), 684-word Retrospective to Week 1 self, complete 45.5-hour verified hours log, live site & build-in-public story post, AI career partner mock interviews, and final checkpoint sign-off.
+- **Assignment FL-09 (Documentation & Demo Video):** [`week_08_fl09_documentation_demo_video.md`](week_08_fl09_documentation_demo_video.md)
+  - **Topic:** Documentation and Demo Video (Code: `FL-09-Documentation`)
+  - **Content:** Reproducible README for `FlyRank-Decay-Scout-v1`, architecture diagram, 0.900 Precision@10 evaluation matrix, limitations list, AI transparency statement, and 4-minute unlisted demo video link with voice narration.
 - **General AI Fluency Capstone Project:** [`week_06_fl_capstone_impact_project.md`](week_06_fl_capstone_impact_project.md)
   - **Topic:** General AI Fluency · Impact Project Capstone (Code: `FL-Capstone`)
   - **Content:** Master synthesis of AI Stack Mastery (Prompting, Workflows, MCP, Personal Agent `FlyRank-Decay-Scout-v1`), Personal Brand & Public Website Infrastructure (`https://zeyadarafa.github.io/FlyRank-Intern/`), and Empirical Machine Learning Results (**0.900 Precision@10 vs 0.400 rule baseline** on an out-of-domain 6-client holdout split, saving $7,500/week in wasted refresh spend across 30,000 assets).
@@ -13,9 +19,6 @@ This directory contains the submission artifacts for assignments and the capston
 - **Week 9 Assignment (Hardening & SEO):** [`week_09_break_your_own_site.md`](week_09_break_your_own_site.md)
   - **Topic:** Break Your Own Site (Code: `FL-09-BreakSite`)
   - **Content:** Destructive edge-case testing (double click fix, empty input validation), production OpenGraph SEO meta tags, 99+ Lighthouse performance audit, and triage matrix.
-- **Assignment FL-09 (Documentation & Demo Video):** [`week_08_fl09_documentation_demo_video.md`](week_08_fl09_documentation_demo_video.md)
-  - **Topic:** Documentation and Demo Video (Code: `FL-09-Documentation`)
-  - **Content:** Reproducible README for `FlyRank-Decay-Scout-v1`, architecture diagram, 0.900 Precision@10 evaluation matrix, limitations list, and 4-minute unlisted demo video link with voice narration.
 - **Week 8 Assignment (Dynamic Feature):** [`week_08_make_it_do_something.md`](week_08_make_it_do_something.md)
   - **Topic:** Make It Do Something (Code: `FL-08-MakeItDoSomething`)
   - **Content:** Working 15-minute Strategy Audit Booking Form, serverless FormSubmit endpoint, live test delivery verification, and plain-words frontend vs backend data flow explainer.
@@ -86,10 +89,11 @@ This directory contains the submission artifacts for assignments and the capston
 
 ## File Index
 
+- **`week_08_fl10_final_package_retrospective_capstone.md`**: Assignment FL-10 Final Package, Retrospective & Capstone Checkpoint documentation.
+- **`week_08_fl09_documentation_demo_video.md`**: Assignment FL-09 Documentation & Video documentation.
 - **`week_06_fl_capstone_impact_project.md`**: Master Capstone Impact Project Submission documentation.
 - **`week_09_plant_your_flag_and_future_plan.md`**: Week 9 Plant Your Flag & Future Plan documentation.
 - **`week_09_break_your_own_site.md`**: Week 9 Break Your Own Site documentation.
-- **`week_08_fl09_documentation_demo_video.md`**: Assignment FL-09 Documentation & Video documentation.
 - **`week_08_make_it_do_something.md`**: Week 8 Make It Do Something documentation.
 - **`week_07_survive_the_crit.md`**: Week 7 Survive the Crit documentation.
 - **`week_07_open_it_on_your_phone.md`**: Week 7 Open It on Your Phone documentation.
@@ -112,8 +116,3 @@ This directory contains the submission artifacts for assignments and the capston
 - **`week_01_fl01_ai_workflow_audit.md`**: Assignment FL-01 documentation (Workflow Audit, Academy Setup, Claude Project, Target Tasks).
 - **`week_01_draw_the_path.md`**: Portfolio Sitemap & Setup documentation.
 - **`paper_url.txt`**: Public URL for the deployed research paper.
-
-
-
-
-
